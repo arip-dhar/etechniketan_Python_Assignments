@@ -8,7 +8,7 @@ The primary objective of these exercises is to demonstrate proficiency in Python
 
 ## 📂 Repository Structure
 
-```text
-└── etechniketan_Python_Assignments/       # Core assignment directory
-    ├── etechniketan_python_assignment_1.py # Basic syntax, data types, logic gates, and list operations
-    └── README.md                          # Project documentation
+└── etechniketan_Python_Assignments/          # Core assignment directory
+    ├── etechniketan_python_assignment_1.py   # Basic syntax, data types, logic gates, and list operations
+    ├── etechniketan_python_assignment_2.py   # Core concepts, data structures (dictionaries/sets), loops, and interactive CLI games
+    └── README.md                             # Project documentation                         # Project documentation
