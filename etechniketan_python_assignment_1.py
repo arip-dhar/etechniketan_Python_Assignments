@@ -159,6 +159,11 @@ print ("Here the result using 'and' operator is: ", result_b) # Print the result
 result_c = not attendance # Here I use "NOT" operator should be applied to ‘attendance’ to get a False.
 
 print ("Here the result using 'NOT' operator is: ", result_c) # Print the result using "NOT" operator. Here, True becomes False and False becomes True.  // Q : C //.
+
+
+print("\n==============================================================================")
+print("Assignment 1 main file demonstration completed!")
+print("==============================================================================")
 # ________________________________________________________________12 _____________________________________________________________________________________________________
 
 

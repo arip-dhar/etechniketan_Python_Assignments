@@ -674,6 +674,10 @@ while True: #This creates an infinite loop (while True). The game will keep runn
         print("Thanks for playing!") #If user select no, so they exit the loop and print Thank you.
         break 
 
+print("\n==============================================================================")
+print("Assignment 2 main file demonstration completed!")
+print("==============================================================================")
+
  # ___________________________________________________________________________43 ____________________________________________________________________________________________
 
 <<<<<<< HEAD
